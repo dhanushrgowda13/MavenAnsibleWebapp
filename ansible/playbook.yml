@@ -1,4 +1,3 @@
-//code inside playbook.yml --in src "workspace/*/target" *-Jenkins pipeline name
 ---
 - name: Deploy to Tomcat
   hosts: web
